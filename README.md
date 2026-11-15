@@ -21,3 +21,23 @@ An interactive web application built with **Python** and **Streamlit** for compr
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Tomasz-mmad/quantitative-portfolio-tracker.git](https://github.com/Tomasz-mmad/quantitative-portfolio-tracker.git)
+
+2. Install dependencies:
+pip install streamlit yfinance pandas numpy plotly scipy
+
+3. Run the application:
+   streamlit run app.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
